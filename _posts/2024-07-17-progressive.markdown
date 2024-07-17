@@ -6,7 +6,7 @@ image: /images/PPT.jpg
 categories: research
 author: "Xiaotong Lin"
 authors: "Xiaotong Lin, Tianming Liang, Jianhuang Lai, Jian-Fang Hu*"
-venue: "European Conference on Computer Vision (ECCV 2024)"
+venue: "European Conference on Computer Vision (ECCV)"
 arxiv: https://arxiv.org/pdf/2407.11588
 code: https://github.com/iSEE-Laboratory/PPT
 website: 
