@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Optimizing Algorithms From Pairwise User Preferences"
-date:   2023-08-09 22:21:59 +00:00
-image: /images/pairwise.png
+title:  "Progressive Pretext Task Learning for Human Trajectory Prediction"
+date:   2024-07-17 00:00:00 +00:00
+image: /images/PPT.png
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Katherine Shih, Martial Hebert, Aaron Steinfeld"
-venue: "International Conference on Intelligent Robots and Systems"
-arxiv: https://arxiv.org/abs/2308.04571
-code: https://github.com/leonidk/pairwise
-website: https://leonidk.github.io/pairwise
+author: "Xiaotong Lin"
+authors: "Xiaotong Lin, Tianming Liang, Jianhuang Lai, Jian-Fang Hu*"
+venue: "European Conference on Computer Vision (ECCV 2024)"
+arxiv: https://arxiv.org/pdf/2407.11588
+code: https://github.com/iSEE-Laboratory/PPT
+website: 
 ---
 We show how to perform efficient black-box optimization of algorithm configuration from user preferences. Results include Intel RealSense stereo cameras and a robot social navigation policy.
