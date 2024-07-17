@@ -2,7 +2,7 @@
 layout: post
 title:  "Progressive Pretext Task Learning for Human Trajectory Prediction"
 date:   2024-07-17 00:00:00 +00:00
-image: /images/PPT.png
+image: /images/PPT.jpg
 categories: research
 author: "Xiaotong Lin"
 authors: "Xiaotong Lin, Tianming Liang, Jianhuang Lai, Jian-Fang Hu*"
