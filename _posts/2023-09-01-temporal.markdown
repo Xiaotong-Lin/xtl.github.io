@@ -5,7 +5,7 @@ date:   2023-07-17 00:00:00 +00:00
 image: /images/TCL.png
 categories: research
 author: "Jianwei Tang"
-authors: "Jiangwei Tang, Jiangxin Sun, Xiaotong Lin, Lifang Zhang, Wei-Shi Zheng, Jian-Fang Hu*"
+authors: "Jiangwei Tang, Jiangxin Sun, *Xiaotong Lin*, Lifang Zhang, Wei-Shi Zheng, Jian-Fang Hu*"
 venue: "Advances in Neural Information Processing Systems (NeurIPS)"
 paper: https://papers.nips.cc/paper_files/paper/2023/hash/cf7a83a5342befd11d3d65beba1be5b0-Abstract-Conference.html
 code: https://github.com/hyqlat/TCL
